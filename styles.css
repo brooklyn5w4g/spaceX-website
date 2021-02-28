@@ -77,3 +77,20 @@
     justify-content: space-around;
     margin: 10px;
 }
+
+.footer {
+    background-color: grey;
+    padding: 25px;
+    margin: 25px 0px 0px 0px;
+    color: #ffffff;
+    clear:both;
+}
+
+.footer a{
+    color : rgb(204, 84, 84);
+}
+
+#page-description{
+    margin: 20px;
+    text-align: center;
+}
