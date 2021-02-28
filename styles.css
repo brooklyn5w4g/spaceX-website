@@ -1,0 +1,79 @@
+
+.patch{
+    height: 200px;
+    width: 200px;
+}
+
+#pagetitle {
+    text-align: center;
+    margin: 10px;
+}
+
+.launch{
+    display:flex;
+    margin: 5px;
+    background-color: grey;
+    padding: 15px;
+    flex-direction: column;
+}
+
+.launch-description{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 10px;
+    
+}
+
+.launch-description p {
+    width:500px;
+    min-width: 300px;
+    margin-top: 20px;
+}
+
+.launch-header{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+    padding: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: rgb(204, 84, 84);
+}
+
+.rocket {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+
+.rocket-info{
+    
+    width: 500px;
+
+    min-width: 300px;
+
+    
+}
+
+.rocket-img {
+    
+    width: 500px;
+    min-width: 300px;
+    margin : 10px;
+    height: 350px;
+    
+}
+
+
+.launchpad {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 10px;
+}
